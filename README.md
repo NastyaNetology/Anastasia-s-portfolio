@@ -1,4 +1,4 @@
-# Anastasia-s-portfolio
+# Anastasia's Portfolio
 # About
 
 Hi, I'm Anastasia!
@@ -17,8 +17,11 @@ During my studies, I gained hands-on experience with advanced technologies inclu
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - Python
-    - [Task Prioritization System] (https://github.com/NastyaNetology/Task-Prioritization-System)
-   
+    - Task Prioritization System https://github.com/NastyaNetology/Task-Prioritization-System
+    - Disaster Tweet Detection https://github.com/NastyaNetology/DisasterTweetDetection/blob/main/README.md
+    - Hyperspectral Data Classification for mineral mapping:
+      - 1D CNN model https://github.com/NastyaNetology/CNN-HSI-MineralClassification
+      - Deep Active Learning model https://github.com/NastyaNetology/Deep_active_learning-HSI
   - Tableau
   - Power BI
  
