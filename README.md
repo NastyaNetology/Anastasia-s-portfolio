@@ -14,13 +14,11 @@ My professional journey has equipped me with expertise in:
 During my studies, I gained hands-on experience with advanced technologies including machine learning, deep learning, and generative AI. I’ve applied these tools to develop data-driven solutions aligned with real business needs. I believe this technical foundation will be a valuable asset in my role as a Senior Business Analyst with a strong technical background.
 
 ## Table of Contents
-- [About]
-- [Portfolio Projects]
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
   - Python
-    - [Name]
-    - [Name]
-    - [Name]
-    - [Name]
+    - [Task Prioritization System] (https://github.com/NastyaNetology/Task-Prioritization-System)
+   
   - Tableau
   - Power BI
  
