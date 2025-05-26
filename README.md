@@ -20,8 +20,8 @@ During my studies, I gained hands-on experience with advanced technologies inclu
  
 ## Portfolio Projects
   - Python
-    - Task Prioritization System https://github.com/NastyaNetology/Task-Prioritization-System
-    - Disaster Tweet Detection https://github.com/NastyaNetology/DisasterTweetDetection/blob/main/README.md
+    - Task Prioritization System https://github.com/NastyaNetology/Task-Prioritization-System/blob/main/main.py
+    - Disaster Tweet Detection https://github.com/NastyaNetology/DisasterTweetDetection/blob/main/DisasterTweetDetection.ipynb
     - Hyperspectral Data Classification for mineral mapping:
       - 1D CNN model https://github.com/NastyaNetology/CNN-HSI-MineralClassification/blob/main/1D_CNN_supervisd_learning.ipynb
       - Deep Active Learning model https://github.com/NastyaNetology/Deep_active_learning-HSI/blob/main/Deep_active_learning_swir.ipynb
