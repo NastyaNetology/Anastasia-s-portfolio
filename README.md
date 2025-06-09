@@ -26,5 +26,9 @@ During my studies, I gained hands-on experience with advanced technologies inclu
     - Hyperspectral Data Classification for mineral mapping:
       - 1D CNN model https://github.com/NastyaNetology/CNN-HSI-MineralClassification/blob/main/1D_CNN_supervisd_learning.ipynb
       - Deep Active Learning model https://github.com/NastyaNetology/Deep_active_learning-HSI/blob/main/Deep_active_learning_swir.ipynb
+  - SQL
+    - ShopEasy E-commerce SQL Analysis [https://github.com/NastyaNetology/Task-Prioritization-System/blob/main/main.py](https://github.com/NastyaNetology/ShopEasy_E-commerce_SQL_Analysis/blob/main/README.md)
+  
+  
   - Tableau
   - Power BI
